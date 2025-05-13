@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "32463d0364b2aa73",
+    "type": "split",
+    "children": [
+      {
+        "id": "265d56659ef31fbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39afd726159e18a8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ccf477a35751b36",
+    "type": "split",
+    "children": [
+      {
+        "id": "1707210dfbed077e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d91a32c7ff87bc8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "465f51680901fa1c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "032e2fd44060fc77",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "12970e544dd8e7ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "9de0ad3134aed766",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15a157360177b9ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LOGICA DE PROGRAMACION.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de LOGICA DE PROGRAMACION"
+            }
+          },
+          {
+            "id": "b5695fc23f02952e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LOGICA DE PROGRAMACION.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de LOGICA DE PROGRAMACION"
+            }
+          },
+          {
+            "id": "6595fcb18430561b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "0f0bbf230b764ec4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LOGICA DE PROGRAMACION.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de LOGICA DE PROGRAMACION"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "032e2fd44060fc77",
+  "lastOpenFiles": [
+    "HTML Y CSS/css.md",
+    "Sin título.canvas",
+    "Sin título.md",
+    "Sin nombre",
+    "HTML Y CSS/HTML Y CSS.md",
+    "Pasted image 20250428160646.png",
+    "Pasted image 20250409002850.png",
+    "2025-04-09.md",
+    "LOGICA DE PROGRAMACION.md",
+    "2025-04-15.md",
+    "2025-04-08.md",
+    "2025-04-24.md",
+    "HTML Y CSS",
+    "aprendiendo/pasos aprendidos.md",
+    "aprendiendo"
+  ]
+}

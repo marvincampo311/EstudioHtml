@@ -1,0 +1,182 @@
+body{
+
+     background-color:#393d42 ;
+     margin: auto;
+     font-family: 'Times New Roman', Times, serif;
+     text-align: center;
+     border: 50px solid black;
+}
+
+header{
+    padding-bottom: 70px;
+}
+
+.mio{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #393d42;
+    padding: 50px;
+    margin: auto;
+}
+
+nav a{
+    font-weight: 600;
+    padding-right: 15px;
+    color: white;
+   
+}
+
+nav a:hover {
+    color: #ea899e;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: #ea899e;
+}
+
+
+
+
+h1 {
+    color: #ea899e;
+}
+
+p{
+    color: aliceblue;
+    padding-bottom: 100px;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+.sobre {
+
+    display: flex;
+    text-align: center;
+    background-color: #393d42;
+    border-top: 2px solid silver;
+    padding-bottom: 50px;
+    justify-content: center;
+      
+    
+}
+
+.box{
+    height: 300px;
+    width: 200px;
+    margin: 10px;
+    background-color:white;
+    border-radius: 20px;
+}
+
+.box h3 {
+    text-align: center;
+}
+
+.parrafo1 {
+    color: black;
+    font-size: 10px;
+
+
+}
+
+   
+
+
+.box1{
+    height: 300px;
+    width: 200px;
+    margin: 10px;
+    background-color: white;
+    border-radius: 20px;
+
+
+}
+
+.python{
+    width:180px ;
+    height: 100px;
+    margin-top: 10px;
+    border: 5px solid black;
+    border-radius: 10px;
+    
+}
+
+.box2{
+    height: 300px;
+    width: 200px;
+    margin: 10px;
+    background-color: white;
+    border-radius: 20px;
+
+
+}
+
+.box3{
+    height: 300px;
+    width: 200px;
+    margin: 10px;
+    background-color: white;
+    border-radius: 20px;
+
+}
+
+.cajas{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    padding: 0 20px;
+
+    
+}
+
+
+button{
+    background-color: #393d42;
+}
+
+button:hover{
+
+    background-color: #ea899e;
+
+}
+
+.paginas{
+
+    margin-top: 50px;
+
+}       
+
+.footerr{
+    margin-left: 50px ;
+    margin-top: 50px    ;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    border-top: 2px solid silver;
+}
+
+.redes {
+    margin-right:50px;
+    margin-top:50px ;
+    padding: 10px;
+}
+
+.mi{
+    margin-right:50px;
+    margin-top:50px ;
+    padding: 10px;
+}
+
+
+
+
+
