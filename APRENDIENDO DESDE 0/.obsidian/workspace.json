@@ -11,10 +11,14 @@
             "id": "39afd726159e18a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2025-04-08.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "2025-04-08"
             }
           }
         ]
@@ -75,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "12970e544dd8e7ed",
@@ -165,19 +169,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "032e2fd44060fc77",
+  "active": "39afd726159e18a8",
   "lastOpenFiles": [
-    "HTML Y CSS/css.md",
-    "Sin título.canvas",
-    "Sin título.md",
-    "Sin nombre",
-    "HTML Y CSS/HTML Y CSS.md",
-    "Pasted image 20250428160646.png",
     "Pasted image 20250409002850.png",
     "2025-04-09.md",
+    "2025-04-08.md",
+    "JS/APRENDIENDO JS.md",
+    "HTML Y CSS/HTML Y CSS.md",
+    "HTML Y CSS/css.md",
+    "JS",
+    "Sin título.md",
+    "Sin título.canvas",
+    "Sin nombre",
+    "Pasted image 20250428160646.png",
     "LOGICA DE PROGRAMACION.md",
     "2025-04-15.md",
-    "2025-04-08.md",
     "2025-04-24.md",
     "HTML Y CSS",
     "aprendiendo/pasos aprendidos.md",
